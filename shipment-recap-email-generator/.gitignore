@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Don't commit real company data
+DeliveryAccuracy.csv
+*.csv
+!SampleDeliveryAccuracy.csv
